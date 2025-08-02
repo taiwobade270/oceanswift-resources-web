@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oceanswift.com.ng/sitemap.xml
+Host: https://oceanswift.com.ng
