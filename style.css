@@ -72,4 +72,9 @@ form button { width: fit-content; align-self: center; background: #0a3d62; color
   .hero-content h1 { font-size: 2rem; }
   .services-list, .team-grid, .testimonials { flex-direction: column; align-items: center; }
   .btn { padding: 8px 16px; }
+
+input:focus, textarea:focus, button:focus {
+  outline: 2px solid #ffa801;
+  outline-offset: 2px;
 }
+
